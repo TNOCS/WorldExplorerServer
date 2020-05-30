@@ -1,4 +1,7 @@
 # WorldExplorerServer
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/e49704eff12243549c7aa95d77f143ea)](https://www.codacy.com/app/erikvullings/world-explorer-server?utm_source=github.com&utm_medium=referral&utm_content=TNOCS/world-explorer-server&utm_campaign=badger)
+
 Tile server proxy for WorldExplorer, serving cached Mapzen vector tiles, or your own GeoJSON tiles. 
 In addition, when running on port 10733 (requirement of Unity), it can serve as an assetbundle server too.
 
